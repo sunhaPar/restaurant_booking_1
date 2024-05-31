@@ -1,0 +1,184 @@
+﻿  gmock_main.cc
+  test.cpp
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(9,22): error C2061: 구문 오류: 식별자 'getEmail'
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(9,47): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(9,47): warning C4183: 'MOCK_METHOD': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(13,1): error C2236: 예기치 않은 토큰 'class'입니다. ';'이 없습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(13,19): error C2059: 구문 오류: ':'
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(13,21): error C2059: 구문 오류: 'public'
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(13,42): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(13,42): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C2504: 'BookingItem': 기본 클래스를 정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C3668: 'BookingItem_예약은_정시에만_가능하다_정시가_아닌경우_예약불가_Test::~BookingItem_예약은_정시에만_가능하다_정시가_아닌경우_예약불가_Test': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C3668: 'BookingItem_예약은_정시에만_가능하다_정시가_아닌경우_예약불가_Test::TestBody': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C2065: 'BookingItem': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C2672: 'testing::internal::GetTypeId': 일치하는 오버로드된 함수가 없습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(435,8):
+  'testing::internal::TypeId testing::internal::GetTypeId(void)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1):
+  	'testing::internal::GetTypeId': 'T'의 템플릿 인수가 잘못되었습니다. 형식이 필요합니다.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C2923: 'testing::internal::SuiteApiResolver': 'BookingItem'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1):
+  'BookingItem' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C2955: 'testing::internal::SuiteApiResolver': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(515,8):
+  'testing::internal::SuiteApiResolver' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1): error C2660: 'testing::internal::MakeAndRegisterTestInfo': 함수는 8개의 인수를 사용하지 않습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(582,22):
+  'testing::internal::MakeAndRegisterTestInfo' 선언을 참조하십시오.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(52,1):
+  인수 목록 '(const char [12], const char [50], nullptr, nullptr, testing::internal::CodeLocation, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::TestFactoryImpl<BookingItem_예약은_정시에만_가능하다_정시가_아닌경우_예약불가_Test> *)'을(를) 일치시키는 동안
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(54,37): error C2065: 'NOT_ON_THE_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(54,54): error C2065: 'UNDER_CAPACITY': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(54,70): error C2065: 'CUSTOMER': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(57,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C2504: 'BookingItem': 기본 클래스를 정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C3668: 'BookingItem_예약은_정시에만_가능하다_정시인_경우_예약가능_Test::~BookingItem_예약은_정시에만_가능하다_정시인_경우_예약가능_Test': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C3668: 'BookingItem_예약은_정시에만_가능하다_정시인_경우_예약가능_Test::TestBody': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C2065: 'BookingItem': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C2672: 'testing::internal::GetTypeId': 일치하는 오버로드된 함수가 없습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(435,8):
+  'testing::internal::TypeId testing::internal::GetTypeId(void)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1):
+  	'testing::internal::GetTypeId': 'T'의 템플릿 인수가 잘못되었습니다. 형식이 필요합니다.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C2923: 'testing::internal::SuiteApiResolver': 'BookingItem'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1):
+  'BookingItem' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C2955: 'testing::internal::SuiteApiResolver': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(515,8):
+  'testing::internal::SuiteApiResolver' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1): error C2660: 'testing::internal::MakeAndRegisterTestInfo': 함수는 8개의 인수를 사용하지 않습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(582,22):
+  'testing::internal::MakeAndRegisterTestInfo' 선언을 참조하십시오.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(65,1):
+  인수 목록 '(const char [12], const char [46], nullptr, nullptr, testing::internal::CodeLocation, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::TestFactoryImpl<BookingItem_예약은_정시에만_가능하다_정시인_경우_예약가능_Test> *)'을(를) 일치시키는 동안
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(67,37): error C2065: 'ON_THE_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(67,50): error C2065: 'UNDER_CAPACITY': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(67,66): error C2065: 'CUSTOMER': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(70,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(73,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(73,2): error C2660: 'testing::internal::EqHelper::Compare': 함수는 3개의 인수를 사용하지 않습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\gtest.h(1573,26):
+  'testing::internal::EqHelper::Compare' 선언을 참조하십시오.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\gtest.h(1581,26):
+  'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(73,2):
+  	'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\gtest.h(1561,26):
+  또는       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(73,2):
+  	'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(73,2):
+  인수 목록 '(const char [5], const char [39], bool)'을(를) 일치시키는 동안
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C2504: 'BookingItem': 기본 클래스를 정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C3668: 'BookingItem_시간대별_인원제한이_있다_같은_시간대에_Capacity_초과할_경우_예외발생_Test::~BookingItem_시간대별_인원제한이_있다_같은_시간대에_Capacity_초과할_경우_예외발생_Test': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C3668: 'BookingItem_시간대별_인원제한이_있다_같은_시간대에_Capacity_초과할_경우_예외발생_Test::TestBody': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C2065: 'BookingItem': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C2672: 'testing::internal::GetTypeId': 일치하는 오버로드된 함수가 없습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(435,8):
+  'testing::internal::TypeId testing::internal::GetTypeId(void)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1):
+  	'testing::internal::GetTypeId': 'T'의 템플릿 인수가 잘못되었습니다. 형식이 필요합니다.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C2923: 'testing::internal::SuiteApiResolver': 'BookingItem'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1):
+  'BookingItem' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C2955: 'testing::internal::SuiteApiResolver': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(515,8):
+  'testing::internal::SuiteApiResolver' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1): error C2660: 'testing::internal::MakeAndRegisterTestInfo': 함수는 8개의 인수를 사용하지 않습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(582,22):
+  'testing::internal::MakeAndRegisterTestInfo' 선언을 참조하십시오.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(77,1):
+  인수 목록 '(const char [12], const char [69], nullptr, nullptr, testing::internal::CodeLocation, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::TestFactoryImpl<BookingItem_시간대별_인원제한이_있다_같은_시간대에_Capacity_초과할_경우_예외발생_Test> *)'을(를) 일치시키는 동안
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(79,37): error C2065: 'ON_THE_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(79,50): error C2065: 'CAPACITY_PER_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(79,69): error C2065: 'CUSTOMER': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(80,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(84,41): error C2065: 'ON_THE_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(84,54): error C2065: 'UNDER_CAPACITY': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(84,70): error C2065: 'CUSTOMER': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(85,3): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C2504: 'BookingItem': 기본 클래스를 정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C3668: 'BookingItem_시간대별_인원제한이_있다_같은_시간대가_다르면_Capacity_차있어도_스케쥴_추가_성공_Test::~BookingItem_시간대별_인원제한이_있다_같은_시간대가_다르면_Capacity_차있어도_스케쥴_추가_성공_Test': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C3668: 'BookingItem_시간대별_인원제한이_있다_같은_시간대가_다르면_Capacity_차있어도_스케쥴_추가_성공_Test::TestBody': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C2065: 'BookingItem': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C2672: 'testing::internal::GetTypeId': 일치하는 오버로드된 함수가 없습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(435,8):
+  'testing::internal::TypeId testing::internal::GetTypeId(void)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1):
+  	'testing::internal::GetTypeId': 'T'의 템플릿 인수가 잘못되었습니다. 형식이 필요합니다.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C2923: 'testing::internal::SuiteApiResolver': 'BookingItem'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1):
+  'BookingItem' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C2955: 'testing::internal::SuiteApiResolver': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(515,8):
+  'testing::internal::SuiteApiResolver' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1): error C2660: 'testing::internal::MakeAndRegisterTestInfo': 함수는 8개의 인수를 사용하지 않습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(582,22):
+  'testing::internal::MakeAndRegisterTestInfo' 선언을 참조하십시오.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(94,1):
+  인수 목록 '(const char [12], const char [81], nullptr, nullptr, testing::internal::CodeLocation, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::SetUpTearDownSuiteFuncType, testing::internal::TestFactoryImpl<BookingItem_시간대별_인원제한이_있다_같은_시간대가_다르면_Capacity_차있어도_스케쥴_추가_성공_Test> *)'을(를) 일치시키는 동안
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(96,37): error C2065: 'ON_THE_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(96,50): error C2065: 'CAPACITY_PER_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(96,69): error C2065: 'CUSTOMER': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(97,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(100,30): error C2065: 'ON_THE_HOUR': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(100,21): error C3861: 'plusHour': 식별자를 찾을 수 없습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(101,55): error C2065: 'UNDER_CAPACITY': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(101,71): error C2065: 'CUSTOMER': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(102,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(105,2): error C2065: 'bookingScheduler': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(105,2): error C2660: 'testing::internal::EqHelper::Compare': 함수는 3개의 인수를 사용하지 않습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\gtest.h(1573,26):
+  'testing::internal::EqHelper::Compare' 선언을 참조하십시오.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\gtest.h(1581,26):
+  'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(105,2):
+  	'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,std::nullptr_t,T *)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\gtest.h(1561,26):
+  또는       'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)'
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(105,2):
+  	'testing::AssertionResult testing::internal::EqHelper::Compare(const char *,const char *,const T1 &,const T2 &)': 4개의 인수가 필요합니다. 3개가 제공되었습니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(105,2):
+  인수 목록 '(const char [5], const char [39], bool)'을(를) 일치시키는 동안
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C2504: 'BookingItem': 기본 클래스를 정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C3668: 'BookingItem_예약완료시_SMS는_무조건_발송_Test::~BookingItem_예약완료시_SMS는_무조건_발송_Test': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C3668: 'BookingItem_예약완료시_SMS는_무조건_발송_Test::TestBody': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C2065: 'BookingItem': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C2672: 'testing::internal::GetTypeId': 일치하는 오버로드된 함수가 없습니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(435,8):
+  'testing::internal::TypeId testing::internal::GetTypeId(void)'일 수 있습니다.
+  	C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1):
+  	'testing::internal::GetTypeId': 'T'의 템플릿 인수가 잘못되었습니다. 형식이 필요합니다.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C2923: 'testing::internal::SuiteApiResolver': 'BookingItem'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1):
+  'BookingItem' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C2955: 'testing::internal::SuiteApiResolver': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  C:\Users\user\source\repos\Project16\packages\gmock.1.11.0\lib\native\include\gtest\internal\gtest-internal.h(515,8):
+  'testing::internal::SuiteApiResolver' 선언을 참조하십시오.
+  
+C:\Users\user\source\repos\Project16\Sample-Test1\test.cpp(108,1): error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  TestableBookingScheduler.cpp
+  TestableMailSender.cpp
+  TestableSmsSender.cpp
+  코드를 생성하고 있습니다...

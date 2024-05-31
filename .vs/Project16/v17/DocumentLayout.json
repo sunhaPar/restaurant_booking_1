@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Project16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableSmsSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\TestableSmsSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableMailSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\TestableMailSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableBookingScheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A2799EB-B4EE-40B2-ACFC-FA5CC35C3C0F}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\TestableBookingScheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Project16\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|solutionrelative:Project16\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Project16\\BookingScheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|solutionrelative:Project16\\BookingScheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Project16\\SmsSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|solutionrelative:Project16\\SmsSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Project16\\MailSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|solutionrelative:Project16\\MailSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|C:\\Users\\user\\source\\repos\\Project16\\Project16\\Schedule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92049E98-A361-4524-BA36-E5799672C49C}|Project16\\Project16.vcxproj|solutionrelative:Project16\\Schedule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestableBookingScheduler.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableBookingScheduler.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\TestableBookingScheduler.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableBookingScheduler.cpp",
+              "RelativeToolTip": "Sample-Test1\\TestableBookingScheduler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T07:33:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\test.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\test.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\test.cpp",
+              "RelativeToolTip": "Sample-Test1\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T06:58:03.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\Customer.cpp",
+              "RelativeDocumentMoniker": "Project16\\Customer.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\Customer.cpp",
+              "RelativeToolTip": "Project16\\Customer.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T06:56:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestableMailSender.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableMailSender.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\TestableMailSender.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableMailSender.cpp",
+              "RelativeToolTip": "Sample-Test1\\TestableMailSender.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T07:34:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmsSender.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\SmsSender.cpp",
+              "RelativeDocumentMoniker": "Project16\\SmsSender.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\SmsSender.cpp",
+              "RelativeToolTip": "Project16\\SmsSender.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T06:57:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestableSmsSender.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableSmsSender.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\TestableSmsSender.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Sample-Test1\\TestableSmsSender.cpp",
+              "RelativeToolTip": "Sample-Test1\\TestableSmsSender.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T07:34:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingScheduler.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\BookingScheduler.cpp",
+              "RelativeDocumentMoniker": "Project16\\BookingScheduler.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\BookingScheduler.cpp",
+              "RelativeToolTip": "Project16\\BookingScheduler.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T06:55:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailSender.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\MailSender.cpp",
+              "RelativeDocumentMoniker": "Project16\\MailSender.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\MailSender.cpp",
+              "RelativeToolTip": "Project16\\MailSender.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T06:56:35.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Schedule.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\Schedule.cpp",
+              "RelativeDocumentMoniker": "Project16\\Schedule.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project16\\Project16\\Schedule.cpp",
+              "RelativeToolTip": "Project16\\Schedule.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T06:56:51.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
